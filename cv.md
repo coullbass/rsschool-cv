@@ -1,4 +1,4 @@
-** Alex Green **
+** Valera Sokolov **
 ================
 
 ----------------              ------------------
@@ -27,4 +27,19 @@ field though it is quite a novelty to me.
 
 ** * Programming languages/skills * **
 ---------------------------------------
+
+No completely learnt languages. I merely studuied basics of JavaScript, HTML and CSS
+as part of RSS JavaScript back-end course.
+
+
+** * Education * **
+--------------------
+
+1995 - 2000, Southern Ukraine Pedagogical University.
+Graduated as a language expert and teacher majoring in German and English.
+
+** * Level of knowledge of the English language * **
+-----------------------------------------------------
+
+Upper intermediate/Advanced.
 
