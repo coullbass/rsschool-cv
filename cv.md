@@ -14,7 +14,7 @@ whereby building up my personal brand. And since I intend to get on
 in content management and web marketing I reckon it would be highly 
 useful to grow somewhat educated in the related sectors, such as 
 back- and front-end code writing. I'm greedy to learn how it all functions
-and gets adjusted on the other side of interfaces.
+and gets adjusted on the other side of interface.
 
 Previously I didn't had much to do with computers, not much as an expert anyway
 rather a user. But I'm capable of learning new things starting prompt from the 
